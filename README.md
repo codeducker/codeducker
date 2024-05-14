@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 #### 关注我
 - 分享视频 [bilibili](https://bilibili.com/codeducker)
