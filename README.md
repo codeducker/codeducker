@@ -1,10 +1,23 @@
 ### Hi there 👋
 
-<!--
-**codeducker/codeducker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 关注我
+- 分享视频 [bilibili](https://bilibili.com/codeducker)
+- 分享心态 [Twitter]()
+- 技术心得分享 [掘金]()
+#### 联系我
+- 发送邮件[proton]()
+- 联系 [Telegram]()
+#### 浏览我
+- 我的小站 [loern](https://loern.dev)
 
+#### 我的技能
+```rust
+    fn getMySklls(){
+
+    }
+```
+### Now news
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +26,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
