@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=codeducker" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=codeducker&show_icons=true&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeducker"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeducker"/>
 #### 关注我
 - 分享视频 [bilibili](https://bilibili.com/codeducker)
 - 分享心态 [Twitter]()
