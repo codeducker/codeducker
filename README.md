@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeducker&repo=github-readme-stats)](https://github.com/codeducker/github-readme-stats)
+
 #### 统计
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=codeducker&show_icons=true&theme=one_dark_pro" />
 
