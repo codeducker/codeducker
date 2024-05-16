@@ -58,7 +58,7 @@
 
 <hr>
 
-### Statistics
+### <img src="https://slackmojis.com/emojis/429-troll/download" width="30"> Statistics
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeducker&size_weight=0.5&count_weight=0.5&exclude_repo=loern.github.io,codeducker" />
 
 ### 
@@ -69,7 +69,7 @@
 
 <hr>
 
-### Popular Repository
+### <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="30"> Popular Repository
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeducker&repo=leetcode)](https://github.com/codeducker/leetcode)
